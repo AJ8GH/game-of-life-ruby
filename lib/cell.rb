@@ -1,3 +1,4 @@
+# knows if it is live or dead
 class Cell
   attr_reader :state
 
