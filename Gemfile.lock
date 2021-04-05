@@ -43,7 +43,6 @@ PLATFORMS
 DEPENDENCIES
   coveralls_reborn (~> 0.21.0)
   rspec
-  rspec-core
   rspec_junit_formatter
 
 RUBY VERSION
