@@ -1,8 +1,4 @@
 language: ruby
 rvm: 2.7.2
-# cache:
-#   - bundler
-before script:
-  - bundle install
 script:
   - bundle exec rspec
