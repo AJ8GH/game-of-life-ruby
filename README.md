@@ -1,5 +1,10 @@
 # Game of Life
 
+[![AJ8GH](https://circleci.com/gh/AJ8GH/game-of-life-ruby.svg?style=shield)](https://app.circleci.com/pipelines/github/AJ8GH/game-of-life-ruby)
+[![AJ8GH](https://circleci.com/gh/AJ8GH/game-of-life-ruby.svg?style=svg)](https://app.circleci.com/pipelines/github/AJ8GH/game-of-life-ruby)
+[![Ruby Style Guide](https://img.shields.io/badge/code_style-rubocop-brightgreen.svg)](https://github.com/rubocop/rubocop)
+[![Maintainability](https://api.codeclimate.com/v1/badges/722e24f8abf5d331b7c1/maintainability)](https://codeclimate.com/github/AJ8GH/game-of-life-ruby/maintainability)
+
 ## Getting started
 
 ### Deployed App
