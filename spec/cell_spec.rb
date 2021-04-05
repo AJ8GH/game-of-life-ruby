@@ -12,7 +12,7 @@ describe Cell do
       expect(cell.state).to eq(:live)
 
       cell.kill
-      expect(cell.state).to eq(:live)
+      expect(cell.state).to eq(:dead)
     end
   end
 end

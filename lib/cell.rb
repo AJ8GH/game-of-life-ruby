@@ -6,6 +6,10 @@ class Cell
     self.state = :live
   end
 
+  def kill
+    self.state = :dead
+  end
+
   private
 
   attr_writer :state
