@@ -40,6 +40,7 @@ PLATFORMS
 DEPENDENCIES
   coveralls_reborn (~> 0.21.0)
   rspec
+  rspec-core
 
 RUBY VERSION
    ruby 2.7.2p137

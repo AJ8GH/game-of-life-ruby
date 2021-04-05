@@ -9,4 +9,5 @@ ruby '2.7.2'
 group :test, :development do
   gem 'coveralls_reborn', '~> 0.21.0', require: false
   gem 'rspec'
+  gem 'rspec-core'
 end
