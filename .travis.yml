@@ -1,4 +1,6 @@
 language: ruby
 rvm: 2.7.2
 script:
+  - bundle add rspec-core
+  - bundle install
   - bundle exec rspec

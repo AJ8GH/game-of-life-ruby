@@ -10,4 +10,5 @@ group :development, :test do
   gem 'coveralls_reborn', '~> 0.21.0', require: false
   gem 'rspec'
   gem 'rspec_junit_formatter'
+  gem 'rubocop', require: false
 end
