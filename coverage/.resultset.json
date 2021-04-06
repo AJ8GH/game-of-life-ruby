@@ -27,7 +27,7 @@
           1,
           null,
           1,
-          12,
+          17,
           null,
           null
         ]
@@ -57,11 +57,20 @@
       "/Users/adamjonas/Projects/makers/week-10/game-of-life-ruby/spec/game_spec.rb": {
         "lines": [
           1,
-          2,
+          3,
+          null,
+          3,
+          3,
           null,
           1,
           1,
           1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
           null,
           null,
           1,
@@ -73,6 +82,11 @@
         ]
       }
     },
-    "timestamp": 1617694725
+    "timestamp": 1617697342
+  },
+  "Unknown Test Framework": {
+    "coverage": {
+    },
+    "timestamp": 1617696540
   }
 }
