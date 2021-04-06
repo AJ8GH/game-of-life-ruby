@@ -27,7 +27,7 @@
           1,
           null,
           1,
-          1,
+          2,
           null,
           null
         ]
@@ -57,9 +57,13 @@
       "/Users/adamjonas/Projects/makers/week-10/game-of-life-ruby/spec/game_spec.rb": {
         "lines": [
           1,
-          2,
+          3,
           null,
           1,
+          1,
+          1,
+          null,
+          null,
           1,
           1,
           null,
@@ -68,6 +72,6 @@
         ]
       }
     },
-    "timestamp": 1617693019
+    "timestamp": 1617694225
   }
 }
