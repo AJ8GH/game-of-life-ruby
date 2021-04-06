@@ -15,8 +15,9 @@ describe Game do
     end
   end
 
-  describe '#kill_cells' do
+  describe '#tick' do
     it 'does not kill cells with 3 neighbours' do
+      game.tick
       expect(game.grid[0][0].state).to be(:live)
     end
   end
